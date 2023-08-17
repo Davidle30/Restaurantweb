@@ -44,7 +44,7 @@ No external dependencies are required for this project.
 If you have any questions or suggestions about this project, feel free to reach out to the project owner:
 
 - Project Owner: david leteipa
-- Email: your.sailadaudi@gmail.com
+- Email:sailadaudi@gmail.com
 
 ## License
 
