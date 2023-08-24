@@ -3,8 +3,6 @@ body {
     margin: 1;
     padding: 5;
   }
-  @media (max-width: 768px) {
-    /* Adjust styles for smaller screens */
 }
 
   
@@ -53,8 +51,14 @@ body {
     max-width: 800%;
     height: auto;
   }
-  @media (max-width: 768px) {
-    /* Adjust styles for smaller screens */
+  /* Media query for screens with a maximum width of 768px */
+@media (max-width: 768px) {
+  .hero img,
+  .hot-deals img,
+  .about-us img,
+  .contact img {
+    max-width: 100%; /* Adjust to fill the available width */
+}
 }
 
   
